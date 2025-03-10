@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Stormwreck Isle",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "jmschabdach.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: true,
@@ -40,7 +40,7 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
-        darkMode: {
+/*        darkMode: {
           light: "#161618",
           lightgray: "#393639",
           gray: "#646464",
@@ -50,6 +50,13 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
+        },*/
+          darkMode: {
+          light: "#303446",
+          dark: "#c6d0f5",
+          red: "#de585a",
+          green: "#a6d189",
+          blue: "#8caaee"
         },
       },
     },
