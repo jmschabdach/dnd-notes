@@ -1,0 +1,5 @@
+ - We go meet Tarack. Late middle aged dude with tattoos. Heartcap mushrooms, south side of the island, a beast is preventing him from communicating with the myconids who live there
+- Tarack gives us a map with an x on the south side of the island to [[Alexa Heartwood|Alexa]]. She holds it upside down.
+- Tarack gives them a sack of decaying food scraps to give to the myconids as a gesture of good will. Alexa puts them in her backpack (not Norton's)
+- We go to the library and meet Varnath
+	- Tells us Tarack is the cook, also about the fungal octopus monster blocking the myconids
