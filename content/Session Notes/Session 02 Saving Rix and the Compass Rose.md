@@ -1,4 +1,11 @@
-[[2025-02-10 - Welcome to Stormwreck Isle]]
+---
+tags:
+  - session
+session-date: 2025-02-17
+---
+
+
+[[Session 01 Welcome to Stormwreck Isle]]
 
 Previously:
 - 2 people bought their way onto a boat

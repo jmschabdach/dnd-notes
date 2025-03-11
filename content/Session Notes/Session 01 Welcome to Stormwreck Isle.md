@@ -1,3 +1,10 @@
+---
+tags:
+  - session
+session-date: 2025-02-10
+---
+
+
 - [[Alexa Heartwood|Alexa]] is arguing with Captain Martin
 - [[Norton Rooftrellen]] comes up and says hi
 - [[Alexa]] tries to sneak on the ship

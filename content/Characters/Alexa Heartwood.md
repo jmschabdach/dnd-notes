@@ -2,7 +2,11 @@
 aliases:
   - Alexa
 ---
-Number of freckles: 30/34
+### Freckle Count
+* [[Session 01 Welcome to Stormwreck Isle]]: 34
+* [[Session 02 Saving Rix and the Compass Rose]]: 30
+* [[Session 03]]: 27
+
 
 Notes:
 - When leveling up
