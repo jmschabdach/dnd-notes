@@ -70,4 +70,15 @@ Battle highlights:
 - We defeat the guard fungus. [[Tarack]] proceeds into the cave, [[Norton Rooftrellen|Norton]] blasts the floor, [[Drok Thornsaga|Drok]] sprints to the stairs and sees 1 mushroom (but not the one that attacks him next)
 - [[Tarack]] is apparently a tank, hits the mushroom that attacked him, and rejoins [[Norton Rooftrellen|Norton]] and [[Alexa Heartwood|Alexa]] at the entrance
 - [[Drok Thornsaga|Drok]] jumps into a pool at the top of the stairs
-- 2 myconid adults appear at the upper entrance to the cavern. With [[Tarack]]'s help, we convince the myconids to let us try to help them with their "blight".
+- 2 myconid adults appear at the upper entrance to the cavern. With [[Tarack]]'s help, we convince the myconids to let us try to help them with their "blight". They leave us to try to navigate the cave as the purple guard mushrooms are not under their control.
+- We wreck the (remaining) guard mushroom and make it to the entrance at the top of the cavern.
+
+### Summary
+- Visited Brastos' grave to return the amulet, the next day the Compass Rose wreck is gone
+- Alexa has another nightmare about some force stealing memories from her, wakes up missing 27 freckles
+- Go to Seaside Grove 
+    - Fight 3 fume drakes in a cave of Windspore mushrooms
+    - Fight the fungal octopus
+- Went to enter the myconid cave, were almost wrecked by purple guard mushrooms, and scared off myconid children
+- Went back to Dragon's Rest, yelled at [[Tarack]], and convinced him to join us
+- Spent way too long perplexed by the purple guard mushrooms, but in the end the myconids agreed to see us
