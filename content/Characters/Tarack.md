@@ -11,4 +11,4 @@ Late middle aged man living in Dragon's Rest who harvests mushrooms and makes po
 When the party returns from the myconid caves for the first time, they claim Tarack asked them to kill the fungal octopus that was blocking him from the myconid colony.
 
 ### Appearances
-- [[Session 01 Welcome to Stormwreck Isle]]
+- [[Session 01]]

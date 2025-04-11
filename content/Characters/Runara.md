@@ -9,4 +9,4 @@ tags:
 Matriarch and protector of Dragon's Rest
 
 ### Appearances
-- [[Session 01 Welcome to Stormwreck Isle]]
+- [[Session 01]]

@@ -4,7 +4,7 @@ tags:
 session-date: 2025-03-10
 arc: Stormwreck Isle
 ---
-### Previously in [[Session 02 Saving Rix and the Compass Rose]]...
+### Previously in [[Session 02]]...
 - Found [[Rix]] held captive by followers of [[Sparkrender]]
 - Examined 
 
@@ -39,7 +39,7 @@ arc: Stormwreck Isle
 | East Fume Drake  | 🪦     |
 Battle highlights:
 - Gurgle gurgle, Drok is down. 
-- It was never documented but [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] each have a health potion given to them by Tarack back in [[Session 01 Welcome to Stormwreck Isle]]. We use 1 to revive [[Drok Thornsaga|Drok]]
+- It was never documented but [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] each have a health potion given to them by Tarack back in [[Session 01]]. We use 1 to revive [[Drok Thornsaga|Drok]]
 
 ### Back to notes
 - Pause after fighting. The water is very relaxing (gave 2 hit dice + const mod health back)

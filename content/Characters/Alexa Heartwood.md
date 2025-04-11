@@ -6,8 +6,8 @@ tags:
   - player-character
 ---
 ### Freckle Count
-* [[Session 01 Welcome to Stormwreck Isle]]: 34
-* [[Session 02 Saving Rix and the Compass Rose]]: 30
+* [[Session 01]]: 34
+* [[Session 02]]: 30
 * [[Session 03]]: 27
 * [[Session 04]]: 27
 * [[Session 05]]: 27

@@ -3,6 +3,8 @@ tags:
   - session
 session-date: 2025-02-10
 arc: Stormwreck Isle
+aliases:
+  - Welcome to Stormwreck Isle
 ---
 ### Notes
 
@@ -36,7 +38,7 @@ arc: Stormwreck Isle
 - We then barge in on a fellow kobold who didn't want company so he didn't answer the door. We apologized and left
 - Next door, we find Laylee setting up bedrolls for us to sleep in tonight. Alexa leaves her pack (not Norton's)
 - We go up the hill to an empty kitchen/dining room
-- We go to the library and meet Varnath
+- We go to the library and meet [[Varnath]]
 	- Tells us Tarack is the cook, also about the fungal octopus monster blocking the myconids
 	- Tells us about [[Rix]], a kobold who saw the fungal octopus monster
 	- Tells us that about once a week there's a new shipwreck
@@ -44,8 +46,8 @@ arc: Stormwreck Isle
 	- Norton and Drok know that this place is called **Stormwreck Isle** because of the deaths of the chromatic dragons? 
 	- Rix is missing but he does that (but not for 5 days)
 	- There's also a tower on the southern end of the island (south east)
-- Bahamut: platinum dragon, progenitor of metallic/chromatic dragons, works against Tiamat and the evil dragons that serve her
-- We proceed up to the temple to talk with Renara
+- [[Bahamut]]: platinum dragon, progenitor of metallic/chromatic dragons, works against Tiamat and the evil dragons that serve her
+- We proceed up to the temple to talk with Runara
 	- Fungal Octopus, very big, swims, could feed all of Dragon's Rest
 	- [[Runara]] tells Alexa that she's an aasimar (celestial touched). Alexa asks how can she be touched by a god when she doesn't even have a dad.
 - Dinner: vegetarian, mushroom heavy meal made by Tarack
