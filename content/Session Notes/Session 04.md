@@ -2,6 +2,7 @@
 tags:
   - session
 session-date: 2025-03-23
+arc: Stormwreck Isle
 ---
 ### Previously...
  Visited Brastos' grave to return the amulet, the next day the Compass Rose wreck is gone

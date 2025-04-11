@@ -2,35 +2,34 @@
 tags:
   - session
 session-date: 2025-02-10
+arc: Stormwreck Isle
 ---
+### Notes
 
-
-- [[Alexa Heartwood|Alexa]] is arguing with Captain Martin
+- [[Alexa Heartwood|Alexa]] is arguing with [[Captain Martin]]
 - [[Norton Rooftrellen]] comes up and says hi
-- [[Alexa]] tries to sneak on the ship
-- [[Alexa]] fails to sneak on the ship
-- [[Norton Rooftrellen]] agrees to pay for [[Alexa]] (10 gold per)
-- A raven tries to steal the gold
-- Something Alexa, Norton, and Martin don't see sneaks on the ship
-- Norton aka Chief sees [[Drok Thornsaga|Drok]]
-- Norton is a wood elf with green skin and scars on his face. 5'8"
-- Drok is a young orc (late teens), skinny but toned. One tooth sticks out, the sides of his head are shaved with the rest pulled into a ponytail. Gray skin. 6'0"
+- [[Alexa Heartwood|Alexa]] tries to sneak on the ship
+- [[Alexa Heartwood|Alexa]] fails to sneak on the ship
+- [[Norton Rooftrellen]] agrees to pay for [[Alexa Heartwood|Alexa]] (10 gold per)
+- A raven ([[Five Dollar Foot Long|Five Dollar]]) tries to steal the gold
+- Something [[Alexa Heartwood|Alexa]], [[Norton Rooftrellen|Norton]], and [[Captain Martin]] don't see sneaks on the ship
+- [[Norton Rooftrellen|Norton]] aka Chief sees [[Drok Thornsaga|Drok]]
 - The trip to the island is unremarkable.
 - We land at a harbor on the north side of the island. We are rowed ashore and dropped off at the bottom of a path
 - Marching order: Alexa, Norton, and Drok
 - Battle: us vs 3 zombies
-	- [X] Z1: 9+10
+	- [x] Z1: 9+10
 	- [x] Z2: 5+13+9+3
 	- [x] Z3: 6+5+?
-- We beat up the zombies and work our way up the path. There's a statue of a dragon (Bahamut) and 6 doors. It's an open aired temple called Dragon's Rest
+- We beat up the zombies and work our way up the path. There's a statue of a dragon ([[Bahamut]]) and 6 doors. It's an open aired temple called Dragon's Rest
 - A mob of kobolds comes up to us and start asking a mountain of questions
-- Approached by an elderly woman (Renara) who tells us to meditate
-- Varnath (human, black hair) has been paying more attention to the zombie attacks
-- Varnath dipped out early, we didn't meet the man who was also there
-- Leylee (kobold) is our guide?
-- Tarack harvests mushrooms and makes potions. Big strong dude with dark hair.
-- [[Norton Rooftrellen]] asks to see Leylee's favorite spot. Leylee takes us to a winch that used to bring supplies up from boats. There's less boats now, they've been crashing on the rocks. 
-- We go meet Tarack. Late middle aged dude with tattoos. Heartcap mushrooms, south side of the island, a beast is preventing him from communicating with the myconids who live there
+- Approached by an elderly woman ([[Runara]]) who tells us to meditate
+- [[Varnath]] (human, black hair) has been paying more attention to the zombie attacks
+- [[Varnath]] dipped out early, we didn't meet the man who was also there
+- [[Leylee]] (kobold) is our guide?
+- [[Tarack]] harvests mushrooms and makes potions. Big strong dude with dark hair.
+- [[Norton Rooftrellen]] asks to see [[Leylee]]'s favorite spot. [[Leylee]] takes us to a winch that used to bring supplies up from boats. There's less boats now, they've been crashing on the rocks. 
+- We go meet [[Tarack]]. Late middle aged dude with tattoos. Heartcap mushrooms, south side of the island, a beast is preventing him from communicating with the myconids who live there
 - Tarack gives us a map with an x on the south side of the island to [[Alexa Heartwood|Alexa]]. She holds it upside down.
 - Norton was told that he needs to go to this island to find a girl in need of his protection. Alexa decides to think about that more.
 - Tarack gives them a sack of decaying food scraps to give to the myconids as a gesture of good will. Alexa puts them in her backpack (not Norton's)
@@ -39,17 +38,17 @@ session-date: 2025-02-10
 - We go up the hill to an empty kitchen/dining room
 - We go to the library and meet Varnath
 	- Tells us Tarack is the cook, also about the fungal octopus monster blocking the myconids
-	- Tells us about Rix, a kobold who saw the fungal octopus monster
+	- Tells us about [[Rix]], a kobold who saw the fungal octopus monster
 	- Tells us that about once a week there's a new shipwreck
 	- The Compass Rose: first shipwreck over a year ago, suspicion that it's the cause of the other shipwrecks
-	- Norton and Drok know that this place is called **Stormwreck Isle** because of the deaths of the chromatic dragons? Alexa failed her history check
+	- Norton and Drok know that this place is called **Stormwreck Isle** because of the deaths of the chromatic dragons? 
 	- Rix is missing but he does that (but not for 5 days)
 	- There's also a tower on the southern end of the island (south east)
 - Bahamut: platinum dragon, progenitor of metallic/chromatic dragons, works against Tiamat and the evil dragons that serve her
 - We proceed up to the temple to talk with Renara
 	- Fungal Octopus, very big, swims, could feed all of Dragon's Rest
-	- Renara tells Alexa that she's an aasimar (celestial touched). Alexa asks how can she be touched by a god when she doesn't even have a dad.
-- Dinner: vegetarian, mushroom heavy meal made my Tarack
+	- [[Runara]] tells Alexa that she's an aasimar (celestial touched). Alexa asks how can she be touched by a god when she doesn't even have a dad.
+- Dinner: vegetarian, mushroom heavy meal made by Tarack
 - Next quests
 	- Wizard Tower (south)
 	- Myconids (south)

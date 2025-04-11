@@ -2,14 +2,15 @@
 tags:
   - session
 session-date: 2025-03-10
+arc: Stormwreck Isle
 ---
 ### Previously in [[Session 02 Saving Rix and the Compass Rose]]...
 - Found [[Rix]] held captive by followers of [[Sparkrender]]
 - Examined 
 
 ### Notes
-- We go to dinner with the people of [[Dragon's Rest]]. [[Norton Rooftrellen|Norton]] asks [[Renara]] about [[Sparkrender]]. 
-- [[Renara]] is tight lipped. She says that [[Sparkrender]] seems to be trying to suck magic out of a wizard tower on the south side of the island.
+- We go to dinner with the people of [[Dragon's Rest]]. [[Norton Rooftrellen|Norton]] asks [[Runara]] about [[Sparkrender]]. 
+- [[Runara]] is tight lipped. She says that [[Sparkrender]] seems to be trying to suck magic out of a wizard tower on the south side of the island.
 - Planning to get to [[Seagrove Caves]] 
 	- In the morning the tides are lowest and that's the easiest way to access the caves
 	- Walking to it takes about 2 hours
@@ -20,11 +21,11 @@ session-date: 2025-03-10
 	- [[Norton Rooftrellen|Norton]] and [[Alexa Heartwood|Alexa]] join him. [[Norton Rooftrellen|Norton]] plants the talismen in the dirt.
 	- Fog rolls up (only Norton notices). When he points it out, we suggest taking it out.
 	- Eventually, we decide the fog is innocuous despite both Norton and Drok firing bolts into it
-- We go back to [[Dragon's Rest]] and go to sleep in the beds [[Laylee]] prepped for us
+- We go back to [[Dragon's Rest]] and go to sleep in the beds [[Leylee]] prepped for us
 - Dreams:
 	- [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] have dreams about travelling on the boat 
 	- [[Alexa Heartwood|Alexa]] has another dream in a void. She is surrounded by memories and the darkness and now has 3 fewer freckles
-- [[Alexa Heartwood|Alexa]] tells [[Renara]] about her dreams. [[Renara]] says a prayer, wonders about [[Sparkrender]]'s research into other forms of magic, and promises to keep praying to Bahamut
+- [[Alexa Heartwood|Alexa]] tells [[Runara]] about her dreams. [[Runara]] says a prayer, wonders about [[Sparkrender]]'s research into other forms of magic, and promises to keep praying to Bahamut
 - Marching order: [[Norton Rooftrellen|Norton]], [[Alexa Heartwood|Alexa]], [[Drok Thornsaga|Drok]]
 - As we set off, we look towards the Compass Rose and it's gone (thanks fog?)
 - We walk about 5 miles and find a section with pretty rainbow mushrooms and a hot spring. Steam billows out of the center of the hot spring. The mushrooms burst and release rainbow sparkles. Moving in the spring are 3 Fume Drakes.
@@ -64,7 +65,7 @@ Battle highlights:
 - [[Alexa Heartwood|Alexa]] went to get help from a myconoid child and got damaged by something
 - The children fled and so did we
 - When we ask [[Tarack]] why the myconids attacked us, cue shocked face [[Tarack]]. 
-- We make him go to [[Renara]] with us and tell her about the myconoids. After much, ahem, persuading, [[Tarack]] agrees to go back to the myconoid colony with us. [[Renara]] heals us
+- We make him go to [[Runara]] with us and tell her about the myconoids. After much, ahem, persuading, [[Tarack]] agrees to go back to the myconoid colony with us. [[Runara]] heals us
 - While we wait for the tide, [[Norton Rooftrellen|Norton]] meditates and [[Drok Thornsaga|Drok]] looks for info on mind control in the library.
 - We go back to the myconid cave. [[Tarack]] is immediately attacked by the purple guard mushroom.
 - We defeat the guard fungus. [[Tarack]] proceeds into the cave, [[Norton Rooftrellen|Norton]] blasts the floor, [[Drok Thornsaga|Drok]] sprints to the stairs and sees 1 mushroom (but not the one that attacks him next)
