@@ -49,6 +49,7 @@ arc: Stormwreck Isle
 - Moonstone key: 1 inch long 3 inch wide key needed to activate the bridges needed to access the wizard's tower
 - We have dinner courtesy of [[Leylee]] and go to bed. 
 - The next morning, we get 4 health potions from [[Tarack]] and head out.
+- We see a dragon fly
 ---
 **Fight scene**
 - We come across an owlbear with 2 kobolds and 1 flying kobold behind it and a dead kobold in front of it. The owlbear has a crown with a purple gem on its head and a necklace with a whistle around its neck
