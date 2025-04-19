@@ -14,7 +14,7 @@ arc: Stormwreck Isle
 - Went back to Dragon's Rest, yelled at [[Tarack]], and convinced him to join us
 - Spent way too long perplexed by the purple guard mushrooms, but in the end the myconids agreed to see us
 
-### Session notes
+### Notes
 - We explain to the myconids that we were only trying to check in on them and that's why we came
 - The myconids lead us to a circular cave with 6 myconids: 4 healthy and 2 with black spotty rot. There are also 2 children myconids.  
 - The room smells like rot because they are trying to cleanse the 2 sick adults.
@@ -22,6 +22,9 @@ arc: Stormwreck Isle
 - Marching order: [[Norton Rooftrellen|Norton]], [[Alexa Heartwood|Alexa]], [[Drok Thornsaga|Drok]]
 - The  next room is filled with smelly smoke. It doesn't hurt us but it smells like an active volcano. There is a large orange crystal on the opposite side of the cave with fissures leading to clusters of purple crystals closer to us.
 - [[Norton Rooftrellen|Norton]] walks into the cave and is attacked by a Fume Drake
+
+---
+**Fight scene**
 
 | Enemy        | Status |
 | ------------ | ------ |

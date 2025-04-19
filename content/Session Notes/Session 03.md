@@ -6,9 +6,10 @@ arc: Stormwreck Isle
 ---
 ### Previously in [[Session 02]]...
 - Found [[Rix]] held captive by followers of [[Sparkrender]]
-- Examined 
+- Examined and looted the ruins of the Compass Rose
 
 ### Notes
+**Onward**
 - We go to dinner with the people of [[Dragon's Rest]]. [[Norton Rooftrellen|Norton]] asks [[Runara]] about [[Sparkrender]]. 
 - [[Runara]] is tight lipped. She says that [[Sparkrender]] seems to be trying to suck magic out of a wizard tower on the south side of the island.
 - Planning to get to [[Seagrove Caves]] 
@@ -30,7 +31,8 @@ arc: Stormwreck Isle
 - As we set off, we look towards the Compass Rose and it's gone (thanks fog?)
 - We walk about 5 miles and find a section with pretty rainbow mushrooms and a hot spring. Steam billows out of the center of the hot spring. The mushrooms burst and release rainbow sparkles. Moving in the spring are 3 Fume Drakes.
 
-#### Roll Initiative!
+---
+**Fight Scene**
 
 | Enemy            | Status |
 | ---------------- | ------ |
@@ -41,25 +43,28 @@ Battle highlights:
 - Gurgle gurgle, Drok is down. 
 - It was never documented but [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] each have a health potion given to them by Tarack back in [[Session 01]]. We use 1 to revive [[Drok Thornsaga|Drok]]
 
-### Back to notes
+---
+**Onward**
 - Pause after fighting. The water is very relaxing (gave 2 hit dice + const mod health back)
 - The mushrooms are wind mushrooms - squeezing one and breathing the spores allows the user to not have to breathe for an hour
 - We continue our way along the coast until we come to a lower stone area. We go down a set of stairs and start walking into a cave.
 - In the water of the cave entrance surrounded by a bioluminescent glow, there is a fungal squid. 
 
-#### Roll initiative!
+---
+**Fight scene**
 
 | Enemy                 | Status |
 | --------------------- | ------ |
 | Tentacle Squid        | 🪦     |
 | Bat sucker thing      | 🪦     |
 | Bat sucker thing, red | 🪦     |
-**Battle highlights**
+Battle highlights
 - Norton fled into the cave and had bat sucker things attack him
 - Drok fled back towards the entrance
 - Alexa summons everyone back after the battle
 
-### Resuming notes
+---
+**Onward**
 - We continue further into the cave. There is an open cave with thousands of mushrooms of various sizes.
 - As soon as [[Norton Rooftrellen|Norton]] steps foot in the cave, he is attacked by a purple mushroom
 - [[Alexa Heartwood|Alexa]] went to get help from a myconoid child and got damaged by something

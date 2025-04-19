@@ -12,3 +12,6 @@ When the party returns from the myconid caves for the first time, they claim Tar
 
 ### Appearances
 - [[Session 01]]
+- [[Session 03]]
+- [[Session 04]]
+- [[Session 05]]
