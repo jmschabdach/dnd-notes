@@ -11,3 +11,4 @@ A human woman with black hair and not a lot of patience. Often found in the libr
 
 ### Appearances
 - [[Session 01]]
+- [[Session 02]]

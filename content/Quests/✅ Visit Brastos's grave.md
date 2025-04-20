@@ -3,6 +3,7 @@ tags:
   - quest
 quest-status: complete
 location: dragon's rest
+arc: Stormwreck Isle
 ---
 
 

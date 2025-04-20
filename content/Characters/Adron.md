@@ -1,7 +1,13 @@
 ---
-location: 
+location: dragon's rest
 arc: Stormwreck Isle
-race: 
+race: Dragon
 tags:
   - npc
 ---
+### Notes
+
+
+### Appearances and Mentions
+- [[Session 05]]
+- [[Session 06]]

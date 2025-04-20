@@ -11,6 +11,7 @@ tags:
 * [[Session 03]]: 27
 * [[Session 04]]: 27
 * [[Session 05]]: 27
+* [[Session 06]]: 27
 
 
 Notes:

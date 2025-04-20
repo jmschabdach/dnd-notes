@@ -1,8 +1,9 @@
 ---
 tags:
   - "#quest"
-quest-status: not active
+quest-status: complete
 location: sea grove caves
+arc: Stormwreck Isle
 ---
 ### Introduction
  - We go meet Tarack. Late middle aged dude with tattoos. Heartcap mushrooms, south side of the island, a beast is preventing him from communicating with the myconids who live there
