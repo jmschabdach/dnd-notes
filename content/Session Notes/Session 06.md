@@ -53,7 +53,7 @@ Highlights
 - Norton chucks the corpses out of the tower while Alexa has a small existential crises about continually killing beings that look like her friend [[Leylee]]
 - We get the original key back by tying a rope to Alexa, her going and taking the key from the statue, and then swimming back to the main platform. She gives the key to Norton.
 - Norton and Drok cross the bridge first, Alexa and [[Yoxith]] hang back.
-- In the building, there are bookshelves sticking out at odd angles and a desk. At the desk is a long black haired elf who is looking away from the entrance.
+- In the building, there are bookshelves sticking out at odd angles and a desk. At the desk is a long silver haired elf who is looking away from the entrance.
 - Norton says hello
 - Elf says he wasn't expecting Drok to be here. Drok has no idea who he is
 - Norton: "is this your boy?"
@@ -131,3 +131,31 @@ Highlights:
 - We get the statues to point to dragon constellation
     - Alexa gets 2 statues, Drok gets 1 statue, and the combined efforts of Yoxith, Drok, and Alexa move the last statue
 - A semicircular staircase opens in the center of the room leading down... (pause for dinner break)
+- We send the Echo down the stair
+- The walls are stuffed with parchment and stone, a bronze dragon, and the desk he just crashed into.
+- [[Adron]] says [[Sparkrender]] was trying to use him to harness the power of the comet. There was a whole ritual planned involving the astrolab.
+- Adron is chained up. Norton frees him via Eldritch Blast. After a bit more conversation he flies back to [[Dragon's Rest]].
+- We investigate the room
+    - Drok finds a battleaxe +1 
+    - Norton finds a scroll of hold person (lvl 2)
+- We also grab Sparkrender's head and one of the dragon effigies
+- Yoxith takes the head in both hands
+- We cross the bridge and Malarod is there. He greets Alexa, asks her to come with him, throws up a wall between her and the rest of the party, and asks for her to come with him. He says he knows the names of all those who keep interfering with his observations. 
+- Alexa refuses, so he takes [[Yoxith]] instead.
+
+### Above the table convo...
+- The party is now level 4
+- We finished this campaign
+- One shots vs Storm Kings Thunder
+- Next session not scheduled, but will be scheduled 
+
+### Summary
+- We explore the 3 towers surrounding the central building. 
+- The northwest tower contained a small kobold camp. Norton yeeted one off the building, then we wrecked the other 4.
+- The southwest tower contained some bookshelves and a desk and a high elf named Malarod who seems to have stolen a notebook of Drok's from his parents' house. They have a brief discussion about [[Sparkrender]] and the crystals before Malarod disappears.
+- We go back to the island and take a short rest before heading towards the northeast tower.
+- Norton and Alexa drop the drawbridge twice and accidentally summon Sparkrender, who proceeds to kick our asses while Drok brings the pain (with the help of [[Five Dollar Foot Long|Five Dollar]]) via psychic knives.
+- After killing Sparkrender, we investigate the tower. Drok and Alexa loot the room and solve a puzzle, opening a spiral staircase in the middle of the room leading down.
+- We free [[Adron]] from the chains Sparkrender trapped him in and he flies back to Dragon's Rest.
+- On our way out, Yoxith grabs Sparkrender's head to show to Renara.
+- We cross the bridge, have a sudden and unexpected conversation with Malarod, and he kidnaps Yoxith.
