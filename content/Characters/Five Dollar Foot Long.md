@@ -1,11 +1,11 @@
 ---
 location: 
 arc: 
-race: Raven
+race: Raven, Owl
 tags:
   - Familiar
 aliases:
   - Five Dollar
   - Foot Long
 ---
-Drok's familiar and the party's favorite eye in the sky.
+[[Drok Thornsaga|Drok]]'s familiar and the party's favorite eye in the sky.

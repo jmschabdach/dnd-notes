@@ -15,10 +15,10 @@ aliases:
 - [[Norton Rooftrellen]] agrees to pay for [[Alexa Heartwood|Alexa]] (10 gold per)
 - A raven ([[Five Dollar Foot Long|Five Dollar]]) tries to steal the gold
 - Something [[Alexa Heartwood|Alexa]], [[Norton Rooftrellen|Norton]], and [[Captain Martin]] don't see sneaks on the ship
-- [[Norton Rooftrellen|Norton]] aka Chief sees [[Drok Thornsaga|Drok]]
+- [[Norton Rooftrellen|Norton]] aka [[Norton Rooftrellen|Chief]] sees [[Drok Thornsaga|Drok]]
 - The trip to the island is unremarkable.
 - We land at a harbor on the north side of the island. We are rowed ashore and dropped off at the bottom of a path
-- Marching order: Alexa, Norton, and Drok
+- Marching order: [[Alexa Heartwood|Alexa]], [[Norton Rooftrellen|Norton]], and [[Drok Thornsaga|Drok]]
 - Battle: us vs 3 zombies
 	- [x] Z1: 9+10
 	- [x] Z2: 5+13+9+3
@@ -32,25 +32,25 @@ aliases:
 - [[Tarack]] harvests mushrooms and makes potions. Big strong dude with dark hair.
 - [[Norton Rooftrellen]] asks to see [[Leylee]]'s favorite spot. [[Leylee]] takes us to a winch that used to bring supplies up from boats. There's less boats now, they've been crashing on the rocks. 
 - We go meet [[Tarack]]. Late middle aged dude with tattoos. Heartcap mushrooms, south side of the island, a beast is preventing him from communicating with the myconids who live there
-- Tarack gives us a map with an x on the south side of the island to [[Alexa Heartwood|Alexa]]. She holds it upside down.
-- Norton was told that he needs to go to this island to find a girl in need of his protection. Alexa decides to think about that more.
-- Tarack gives them a sack of decaying food scraps to give to the myconids as a gesture of good will. Alexa puts them in her backpack (not Norton's)
+- [[Tarack]] gives us a map with an x on the south side of the island to [[Alexa Heartwood|Alexa]]. She holds it upside down.
+- [[Norton Rooftrellen|Norton]] was told that he needs to go to this island to find a girl in need of his protection. [[Alexa Heartwood|Alexa]] decides to think about that more.
+- [[Tarack]] gives them a sack of decaying food scraps to give to the myconids as a gesture of good will. [[Alexa Heartwood|Alexa]] puts them in her backpack (not [[Norton Rooftrellen|Norton]]'s)
 - We then barge in on a fellow kobold who didn't want company so he didn't answer the door. We apologized and left
-- Next door, we find Laylee setting up bedrolls for us to sleep in tonight. Alexa leaves her pack (not Norton's)
+- Next door, we find Laylee setting up bedrolls for us to sleep in tonight. [[Alexa Heartwood|Alexa]] leaves her pack (not [[Norton Rooftrellen|Norton]]'s)
 - We go up the hill to an empty kitchen/dining room
 - We go to the library and meet [[Varnath]]
-	- Tells us Tarack is the cook, also about the fungal octopus monster blocking the myconids
+	- Tells us [[Tarack]] is the cook, also about the fungal octopus monster blocking the myconids
 	- Tells us about [[Rix]], a kobold who saw the fungal octopus monster
 	- Tells us that about once a week there's a new shipwreck
 	- The Compass Rose: first shipwreck over a year ago, suspicion that it's the cause of the other shipwrecks
-	- Norton and Drok know that this place is called **Stormwreck Isle** because of the deaths of the chromatic dragons? 
-	- Rix is missing but he does that (but not for 5 days)
+	- [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] know that this place is called **Stormwreck Isle** because of the deaths of the chromatic dragons? 
+	- [[Rix]] is missing but he does that (but not for 5 days)
 	- There's also a tower on the southern end of the island (south east)
 - [[Bahamut]]: platinum dragon, progenitor of metallic/chromatic dragons, works against Tiamat and the evil dragons that serve her
-- We proceed up to the temple to talk with Runara
+- We proceed up to the temple to talk with [[Runara]]
 	- Fungal Octopus, very big, swims, could feed all of Dragon's Rest
-	- [[Runara]] tells Alexa that she's an aasimar (celestial touched). Alexa asks how can she be touched by a god when she doesn't even have a dad.
-- Dinner: vegetarian, mushroom heavy meal made by Tarack
+	- [[Runara]] tells [[Alexa Heartwood|Alexa]] that she's an aasimar (celestial touched). [[Alexa Heartwood|Alexa]] asks how can she be touched by a god when she doesn't even have a dad.
+- Dinner: vegetarian, mushroom heavy meal made by [[Tarack]]
 - Next quests
 	- Wizard Tower (south)
 	- Myconids (south)

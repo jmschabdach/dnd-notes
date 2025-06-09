@@ -20,8 +20,8 @@ arc: Stormwreck Isle
 	- In order of [[Drok Thornsaga|Drok]], [[Alexa Heartwood|Alexa]], [[Norton Rooftrellen|Norton]], we follow a winding path going up to the top of the cliffs to a cemetary
 	- [[Drok Thornsaga|Drok]] sneaks in and finds Brastos' grave
 	- [[Norton Rooftrellen|Norton]] and [[Alexa Heartwood|Alexa]] join him. [[Norton Rooftrellen|Norton]] plants the talismen in the dirt.
-	- Fog rolls up (only Norton notices). When he points it out, we suggest taking it out.
-	- Eventually, we decide the fog is innocuous despite both Norton and Drok firing bolts into it
+	- Fog rolls up (only [[Norton Rooftrellen|Norton]] notices). When he points it out, we suggest taking it out.
+	- Eventually, we decide the fog is innocuous despite both [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] firing bolts into it
 - We go back to [[Dragon's Rest]] and go to sleep in the beds [[Leylee]] prepped for us
 - Dreams:
 	- [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] have dreams about travelling on the boat 
@@ -40,8 +40,8 @@ arc: Stormwreck Isle
 | North Fume Drake | 🪦     |
 | East Fume Drake  | 🪦     |
 Battle highlights:
-- Gurgle gurgle, Drok is down. 
-- It was never documented but [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] each have a health potion given to them by Tarack back in [[Session 01]]. We use 1 to revive [[Drok Thornsaga|Drok]]
+- Gurgle gurgle, [[Drok Thornsaga|Drok]] is down. 
+- It was never documented but [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] each have a health potion given to them by [[Tarack]] back in [[Session 01]]. We use 1 to revive [[Drok Thornsaga|Drok]]
 
 ---
 **Onward**
@@ -59,9 +59,9 @@ Battle highlights:
 | Bat sucker thing      | 🪦     |
 | Bat sucker thing, red | 🪦     |
 Battle highlights
-- Norton fled into the cave and had bat sucker things attack him
-- Drok fled back towards the entrance
-- Alexa summons everyone back after the battle
+- [[Norton Rooftrellen|Norton]] fled into the cave and had bat sucker things attack him
+- [[Drok Thornsaga|Drok]] fled back towards the entrance
+- [[Alexa Heartwood|Alexa]] summons everyone back after the battle
 
 ---
 **Onward**
@@ -69,19 +69,19 @@ Battle highlights
 - As soon as [[Norton Rooftrellen|Norton]] steps foot in the cave, he is attacked by a purple mushroom
 - [[Alexa Heartwood|Alexa]] went to get help from a myconoid child and got damaged by something
 - The children fled and so did we
-- When we ask [[Tarack]] why the myconids attacked us, cue shocked face [[Tarack]]. 
+- When we ask [[Tarack]] why the myconoids attacked us, cue shocked face [[Tarack]]. 
 - We make him go to [[Runara]] with us and tell her about the myconoids. After much, ahem, persuading, [[Tarack]] agrees to go back to the myconoid colony with us. [[Runara]] heals us
 - While we wait for the tide, [[Norton Rooftrellen|Norton]] meditates and [[Drok Thornsaga|Drok]] looks for info on mind control in the library.
-- We go back to the myconid cave. [[Tarack]] is immediately attacked by the purple guard mushroom.
+- We go back to the myconoid cave. [[Tarack]] is immediately attacked by the purple guard mushroom.
 - We defeat the guard fungus. [[Tarack]] proceeds into the cave, [[Norton Rooftrellen|Norton]] blasts the floor, [[Drok Thornsaga|Drok]] sprints to the stairs and sees 1 mushroom (but not the one that attacks him next)
 - [[Tarack]] is apparently a tank, hits the mushroom that attacked him, and rejoins [[Norton Rooftrellen|Norton]] and [[Alexa Heartwood|Alexa]] at the entrance
 - [[Drok Thornsaga|Drok]] jumps into a pool at the top of the stairs
-- 2 myconid adults appear at the upper entrance to the cavern. With [[Tarack]]'s help, we convince the myconids to let us try to help them with their "blight". They leave us to try to navigate the cave as the purple guard mushrooms are not under their control.
+- 2 myconoid adults appear at the upper entrance to the cavern. With [[Tarack]]'s help, we convince the myconids to let us try to help them with their "blight". They leave us to try to navigate the cave as the purple guard mushrooms are not under their control.
 - We wreck the (remaining) guard mushroom and make it to the entrance at the top of the cavern.
 
 ### Summary
 - Visited Brastos' grave to return the amulet, the next day the Compass Rose wreck is gone
-- Alexa has another nightmare about some force stealing memories from her, wakes up missing 27 freckles
+- [[Alexa Heartwood|Alexa]] has another nightmare about some force stealing memories from her, wakes up missing 27 freckles
 - Go to Seaside Grove 
     - Fight 3 fume drakes in a cave of Windspore mushrooms
     - Fight the fungal octopus

@@ -10,9 +10,9 @@ arc: Stormwreck Isle
 ### Notes
 - We short rest
 - The myconoids have resumed their healing ritual and it
-- We are summoned to see the myconoid leader, Sinensa
+- We are summoned to see the myconoid leader, [[Sinensa]]
 - There are happy mushroom dances and you are filled with feelings of peace.
-- Sinensa thanks us and gives us a Ruby Morel - Tarak can use it to make an elixer of healing.
+- [[Sinensa]] thanks us and gives us a Ruby Morel - Tarak can use it to make an elixer of healing.
 - We head to the south cave, marching [[Drok Thornsaga|Drok]] [[Alexa Heartwood|Alexa]] [[Norton Rooftrellen|Norton]]
 - [[Alexa Heartwood|Alexa]] looks around, doesn't see any sentinal mushrooms, walks in, and is immediately attacked by 5 of 8 sturges
 
@@ -37,7 +37,7 @@ arc: Stormwreck Isle
 - [[Norton Rooftrellen|Norton]] casts Aid (+5 max hp for hours)
 - We go back to the west cave and investigate the hole where the crystal was. It narrows to a small hole higher up.
 - [[Norton Rooftrellen|Norton]] Eldritch Blasts one of the purple crystal and it explodes. [[Norton Rooftrellen|Norton]] and [[Alexa Heartwood|Alexa]] both take a couple of pieces of purple quartz.
-- We all walk back to [[Dragon's Rest]]. [[Five Dollar]] joins us. 
+- We all walk back to [[Dragon's Rest]]. [[Five Dollar Foot Long|Five Dollar]] joins us. 
 - We stop for a dip in the hot springs
 - When we get back, we go to see [[Runara]]. She turns into a bronze dragon and gives us a lore dump about dragons
     - [[Bahamut]]: parent of all metallic dragons
@@ -66,7 +66,7 @@ arc: Stormwreck Isle
 
 - [[Alexa Heartwood|Alexa]] gives [[Yoxith]] Healing Hands
 - [[Norton Rooftrellen|Norton]] determines that the crown and the necklace with its purple gem are magical, also grabs the non-magic whistle
-- [[Drok Thornsaga|Drok]] with the help of [[Five Dollar]] sees the wreckage of a "friendly looking" cage. It looks like the owlbear might have washed up from a recent shipwreck on its way to perform in a circus.
+- [[Drok Thornsaga|Drok]] with the help of [[Five Dollar Foot Long]] sees the wreckage of a "friendly looking" cage. It looks like the owlbear might have washed up from a recent shipwreck on its way to perform in a circus.
     - The Wingling Brothers are known to [[Norton Rooftrellen|Norton]] as people who mistreat their owlbears.
     - The Cirque du Sonesta is a more reputable circus.
 - [[Norton Rooftrellen|Norton]] casts Aid on [[Drok Thornsaga|Drok]], [[Alexa Heartwood|Alexa]], and [[Yoxith|Roxas]] and then Identifies the gems as Dissonant Whispers "scroll"s

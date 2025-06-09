@@ -6,7 +6,7 @@ arc: Stormwreck Isle
 ---
 ### Previously...
  Visited Brastos' grave to return the amulet, the next day the Compass Rose wreck is gone
-- Alexa has another nightmare about some force stealing memories from her, wakes up with 27 freckles instead of 30
+- [[Alexa Heartwood|Alexa]] has another nightmare about some force stealing memories from her, wakes up with 27 freckles instead of 30
 - Go to Seaside Grove 
     - Fight 3 fume drakes in a cave of Windspore mushrooms
     - Fight the fungal octopus
@@ -20,7 +20,7 @@ arc: Stormwreck Isle
 - The room smells like rot because they are trying to cleanse the 2 sick adults.
 - The healthy adults direct us to a cave to the west. They can't go there because there's sunlight but that seems to be where the rot originated.
 - Marching order: [[Norton Rooftrellen|Norton]], [[Alexa Heartwood|Alexa]], [[Drok Thornsaga|Drok]]
-- The  next room is filled with smelly smoke. It doesn't hurt us but it smells like an active volcano. There is a large orange crystal on the opposite side of the cave with fissures leading to clusters of purple crystals closer to us.
+- The next room is filled with smelly smoke. It doesn't hurt us but it smells like an active volcano. There is a large orange crystal on the opposite side of the cave with fissures leading to clusters of purple crystals closer to us.
 - [[Norton Rooftrellen|Norton]] walks into the cave and is attacked by a Fume Drake
 
 ---
@@ -34,11 +34,16 @@ arc: Stormwreck Isle
 - Battle highlights:
     - [[Norton Rooftrellen|Norton]] summoned [[Tarack]] with a sexy dance
     - [[Alexa Heartwood|Alexa]] chopped a drake in half
+
+---
+**Onwards**
 - [[Norton Rooftrellen|Norton]] Detects Magic in the orange crystal in the fissure. The crystal is bigger than a person and has some sort of dark blob in the middle of it.
 - [[Drok Thornsaga|Drok]] tries to pull the crystal out. 
 - [[Alexa Heartwood|Alexa]] looks at the ceiling and doesn't see any sun. [[Norton Rooftrellen|Norton]] and [[Drok Thornsaga|Drok]] recognize that the crystal must be illuminated by the sun from above.
 - [[Norton Rooftrellen|Norton]] Eldritch Blasts the crystal. It shatters and the black blob bounces on the floor and breaks. Out comes a fire-snake and 2 Fume Drakes
 
+---
+**Fight Scene**
 
 | Enemy            | Status |
 | ---------------- | ------ |

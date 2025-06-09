@@ -11,8 +11,9 @@ tags:
 - 6'0"
 
 ### Character Lore
-- His bestie is his bird, Five Dollar Foot Long.
+- His bestie is his bird, [[Five Dollar Foot Long]].
 - In [[Session 06]] he runs into [[Malarod]], who has "acquired" a notebook written by Drok about the potential existence of the legendary magical stone irigan (sp?)
     - From this interaction, Drok assumes his parents (who are powerful wizards and would not sell his notebook at a yard sale) must be dead
     - And his parents' home must be destroyed
     - Drok gets the notebook back, minus a few pages.
+- In [[Session 07]] Drok reveals that he's from [[Baldur's Gate]]. We should go check on his family there...

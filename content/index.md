@@ -7,3 +7,6 @@ Set up on Obsidian:
 - Set up [Quartz](https://quartz.jzhao.xyz/) 
 	- Set up this vault as a set of symlinks.
 	- To update Github Pages: `cd ~/Projects/dnd-quartz/` and `npx quartz sync`
+
+#### Vault Features
+- Templates for characters, sessions, and now combat

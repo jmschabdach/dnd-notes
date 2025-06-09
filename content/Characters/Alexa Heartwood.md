@@ -12,15 +12,37 @@ tags:
 * [[Session 04]]: 27
 * [[Session 05]]: 27
 * [[Session 06]]: 27
+* [[Session 07]]: ~~24~~ 22
 
 
-Notes:
+### Misc Loot
+
+- 4500 copper
+- 2200 silver
+- 130 gold
+- 5 pale blue quartz crystals 
+- 5 blue jasper stones
+- Waterproof leather case containing a fan
+- Crude flute
+- Hourglass with sand
+- 7 candlesticks
+- A bag with 10 gold
+- 2 pink crystal good for 1 charge of dissonant whispers
+- 1 used pink crystal used for dissonant whispers
+- determines that the crown and the necklace with its purple gem are magical, also grabs the non-magic whistle
+
+### Notes
 - When leveling up
 	- Fighter - [Echo Knight subclass](https://rpgbot.net/dnd5/characters/classes/fighter/subclasses/echo-knight/)
 	- [Fighter](https://www.dndbeyond.com/sources/dnd/phb-2024/character-classes#Fighter)
 	- Increase the number of [Tough](https://www.dndbeyond.com/sources/dnd/phb-2024/feats#Tough): edit the Tough feature to have a max HP bonus +2 higher via Feats -> Tough -> Edit -> Add 2 to the modifier -> Apply -> Save?
 - Great Weapon Fighting: 1s and 2s on damage roles are automatically 3s (Crits included)
 
+
+### Character Lore
+- In [[Session 01]], [[Runara]] tells Alexa that she is an aasimir
+- During their time on [[Stormwreck Isle]], Alexa periodically has nightmares about a shadowy presence showing her memories she can't remember and sucking the life out of her. She then wakes up to find out some of her silver freckles have disappeared.
+- During [[Session 07]], [[Norton Rooftrellen|Norton]]'s patron [[T-Dog]] says she reeks of evil. [[Runara]] responds that Alexa has a complex aura with both celestial and demonic influences. [[T-Dog]] is upset (because of the stink but also) because Alexa is apparently a descendant of Thorm, who is a lawful good god of war. She shouldn't have any evil stink.
 
 ### Background
 

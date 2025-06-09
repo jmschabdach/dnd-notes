@@ -5,4 +5,4 @@ race: Kobold
 tags:
   - npc
 ---
-The party's host in Dragon's Rest
+The party's host in [[Dragon's Rest]]
