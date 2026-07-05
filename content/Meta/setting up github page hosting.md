@@ -1,4 +1,5 @@
 1. Install `nvm` https://github.com/nvm-sh/nvm#verify-installation
-2. 
-https://quartz.jzhao.xyz/
+2. Make sure Quartz is set up https://quartz.jzhao.xyz/
+3. To sync, `npx quartz sync`
 
+See page at: []
