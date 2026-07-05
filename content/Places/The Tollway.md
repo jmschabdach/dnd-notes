@@ -1,4 +1,0 @@
----
-region: Hither
-dimension: Faewild
----

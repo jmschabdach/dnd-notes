@@ -1,5 +1,0 @@
----
-dimension:
-region:
-arc:
----

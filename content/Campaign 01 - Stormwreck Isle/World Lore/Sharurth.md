@@ -1,2 +1,0 @@
-- A chromatic dragon who terrorized the [[Storm Coast]]
-- Imprisoned in an underwater tomb by 3 metallic dragons but possibly still alive
