@@ -1,0 +1,9 @@
+- "Deliver the book to Bavlorna"
+- ❌ Free [[Margot]] - she ran away
+- ✅ Overthrow [[King Gorlup XIX]]
+- Re-overthrow the [[Rabbit Mafia]]
+    - Get [[Jingle Jangle]]'s favorite key back
+    - Get Clapperclaw's head back from the [[Rabbit Mafia]]
+- Find our missing stuff
+- Get [[Glurk]] a gun
+- Get a bundle of dried sticks for the cauldron keeper

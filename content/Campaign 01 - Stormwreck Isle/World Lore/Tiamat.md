@@ -1,0 +1,2 @@
+- Progenitor of all chromatic dragons
+- In an eternal fight against [[Bahamut]]

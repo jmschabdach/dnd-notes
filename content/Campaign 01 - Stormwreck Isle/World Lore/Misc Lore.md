@@ -1,0 +1,2 @@
+- The Wingling Brothers are known to [[Norton Rooftrellen|Norton]] as people who mistreat their owlbears.
+- The Cirque du Sonesta is a more reputable circus.
