@@ -1,9 +1,10 @@
 ---
 tags:
   - session
-session-date: 
-arc: 
+session-date:
+arc:
 aliases:
+campaign:
 ---
 ### Previously
 
