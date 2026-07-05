@@ -1,12 +1,6 @@
 
 ---
-**Fight Scene**
-
-| Enemy    | Status |
-| -------- | ------ |
-| Kobold 1 | 🟢     |
-| Kobold 2 | 🟢     |
-| Kobold 3 | 🟢     |
+**Roll Initiative!**
 
 Highlights
 - cool stuff here
