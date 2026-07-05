@@ -41,3 +41,5 @@ campaign: The Wild Beyond the Witchlight
 
 ### Summary
 
+- The Firefighters successfully delivered a book to [[Bavlorna]], who offered to exchange more information (possibly about [[Bix]]'s missing sense of direction) if we clear out the pool on the first level of her house and bring back a crate with dead animals for her taxidermy.
+- The party decided to leave [[Downfall]] and deal with the [[Rabbit Mafia]]. When we arrived at [[The Tollway]], the central tree was on fire thanks to [[Elmer]]. We momentarily partnered with the [[Rabbit Mafia]] to knock him out before turning on them to kill [[Agdon Longscarf]]. 

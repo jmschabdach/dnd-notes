@@ -1,7 +1,7 @@
 ---
-location: 
-arc: 
-race: 
+location:
+campaign:
+race:
 tags:
   - npc
 ---
