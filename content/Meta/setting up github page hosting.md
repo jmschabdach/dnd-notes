@@ -3,3 +3,5 @@
 3. To sync, `npx quartz sync`
 
 See page at: [jmschabdach.github.io/ttrpgs]
+
+jmschabdach.github.io/ttrpgs
