@@ -12,7 +12,7 @@ tags:
 # Background
 
 Warlock
-Has lost the ability for other people to understand her writing
+Has lost the ability for other people to understand her writing. Cursed to not be able to light non-magical fires
 
 Mara is a 31 year old Tiefling from the bloodline of Asmodeus. When she was 7 years old, she attended the Witchlight Carnival with her dad. When she was about 12-14 years old, he died (or disappeared) and her grandmother took her in. She loved learning, but the loss of her father left her distracted and struggling at school. The next time the Witchlight Carnival was in town, she sneaked in with some friends. Shortly after, her teachers claimed her level of apathy towards classwork had reached new heights: she apparently no longer cared if her assignments were even legible. A few months later, she dropped out. She started working at her grandmother's apothecary as a general assistant and herb gatherer. Now she mostly handles customers while her grandmother makes the remedies, though she still goes out looking for the rarer herbs as needed. In her free time, she reads books borrowed from the local bookshop. Don't worry, she always returns them eventually.
 
